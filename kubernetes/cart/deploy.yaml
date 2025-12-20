@@ -5,7 +5,9 @@ kind: Deployment
 metadata:
   name: opentelemetry-demo-cartservice
   labels:
-    
+
+
+
     opentelemetry.io/name: opentelemetry-demo-cartservice
     app.kubernetes.io/instance: opentelemetry-demo
     app.kubernetes.io/component: cartservice
