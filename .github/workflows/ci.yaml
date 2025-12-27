@@ -83,4 +83,4 @@ jobs:
           git config --global user.email "massimatheodorejeriel@gmail.com"
           git add kubernetes/product-catalog-deployment.yaml
           git commit -m "[CI]: Update product-catalog image tag"
-          git push origin HEAD:main
+          git push
