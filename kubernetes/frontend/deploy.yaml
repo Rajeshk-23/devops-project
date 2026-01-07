@@ -1,5 +1,6 @@
 ---
 # Source: opentelemetry-demo/templates/component.yaml
+#deployment.yml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
