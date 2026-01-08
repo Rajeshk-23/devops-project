@@ -1,3 +1,4 @@
+#packagefile
 {
   "devDependencies": {
     "markdown-link-check": "^3.9.3",
